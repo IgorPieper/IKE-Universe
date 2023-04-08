@@ -1,0 +1,48 @@
+Magigród – Miasto magii, stolica Magicmod
+
+Chronione potężną barierą, która ukrywa miasto przed istotami o złych intencjach. Próba złamania bądź/i wtargnięcia takich osób na teren będzie skutkowała wymuszoną teleportacją istoty w losowe miejsce na świecie. Dodatkowe systemy bezpieczeństwa pozwalają na wzniesienie miasta w powietrze i szybką zmianę lokalizacji.
+
+Miasto znane jest z akademii nauczającej podstawy działania magii i eksportowania różdżek, które pozwalają każdemu władać magiczną mocą. Oba te aspekty są ze sobą ściśle powiązane. Różdżki poziomu pierwszego kupić może każdy, lecz chcąc zdobyć pozwolenie na kupno potężniejszych różdżek trzeba ukończyć adekwatny stopień w akademii. 
+
+Różdżki Poziomu 1:
+	- „Kij do chlapania” – Przywołuje falę (patyk z balonem na końcu)
+	- „Różdżka Kiczu” – Pozwala dowolnie zmieniać kolory obiektu (palma wielkanocna)
+	- „Różdżka Iluzji” – Przywołuje chwilową iluzję robiącą losowe rzeczy (patyk z gwiazdką na końcu)
+Różdżki Poziomu 2:
+	- „Dostojna Różdżka” – (patyk) – pozwala strzelać magicznym promieniem, który odpycha na duże odległości
+	- „Różdżka Wody” – (patyk z woreczkiem plastikowym, w którym pływa ryba) – pozwala strzelać kulami wody. Bardzo odświeżające
+	- „Różdżka Iskier” – (Przypalony patyk z kapiącym woskiem na końcu) – przyzywa iskry
+	- „Różdżka Spokoju” – (Gohei)
+	- „Różdżka ziemi” – (powyginany korzeń) – przyzywa ziemię i okazjonalnie kamienie
+Różdżki Poziomu 3:
+	- „Różdżka Nocy” – (Różdżka z księżycem na końcu) - pozwala w nocy stać się niewidzialnym
+	- „Kostur bestii” – (Kostur z zaokrągloną górą, obwinięty włosami/piórami) - Pozwala zmienić się w bestię z włosa/pióra której powstała
+	- „Różdżka szlachetności” – (Świecący Oślepiającym światłem patyk) - Sprawia, że element zaczyna świecić
+	- „Różdżka Transcendencji” – (Niewidzialny Długi Kij z ostrą główką) - Sprawia, że obiekt staje się delikatnie przeźroczysty
+	- „Różdżka Deszczu” – (Szczotka toaletowa) – Chlapie na wszystkie strony
+- „Różdżka wiatru” – (Wiatraczek) – tworzy silny podmuch wiatru
+Różdżki Specjalizacji:
+	- „Kostur Wody” – (Długi kij z akwarium u szczytu) – władanie wodą
+	- „Kostur Ognia” – (Gigantyczna zapałka) – Władanie ogniem
+	- „Kostur Ziemi” – (Długi kij z ziemią ułożoną w kwadrat u szczytu) – Władanie ziemią
+	- „Kostur Powietrza” – Władanie wiatrem
+Różdżki Weterana:
+	- „Kostru Burz” – (Długi kij z błyskającą się chmurką na końcu) – przyzywanie piorunów
+	- „Kostur Mrozu” – (Logowy Długi kij) – przyzywanie lodowych sopli
+	- „The Kostur” – (Najbardziej przerysowany i kolorowy długi kij jaki widziałeś) – teleportacja
+
+Aby dołączyć do akademii magii, trzeba zapłacić wysoką stawkę wstępną. Następnie płaci się za każdy oblany egzamin, których jest wyjątkowo dużo. Aby zaliczyć stopień, trzeba zaliczyć wszystkie przedmioty, przejść egzaminy, zaliczyć szkolenie terenowe i pokonać wyznaczonego trenera.
+
+Dodatkowo aby przejść do etapu specjalizacji i weterana trzeba dołączyć do sił bojowych Magicmod, odsłużyć tam swoje i dostać specjalne pozwolenie od generałów magicmod.
+
+Przykładowe zajęcia:
+	- „Władanie kosturem” – Kostur jest przedłużeniem ręki maga, więc musi czuć się z nim pewnie
+	- „Jazda konna” – Ćwiczy koordynację i budowanie więzi
+	- „Żywiołaki” – Przyzywanie i odkrywanie możliwości żywiołaków
+	- „Odkrywanie predyspozycji” – Testowanie różnych żywiołów, aby sprawdzić z którym czujemy się najlepiej 
+	- „Celność” – Trening celności
+	- „Pojedynki”
+	- „Trening Bojowy” – symulowane bitwy
+	- „Survival”
+
+Uczniowie, którzy nie radzili sobie z nauką, bądź byli nie wygodnii kończyli przerobieni na różdżki…
