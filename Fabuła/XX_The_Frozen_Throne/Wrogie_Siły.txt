@@ -1,0 +1,206 @@
+Siły Zielonych Orków:
+
+- Peon - słaby ork, mięso armatnie
+- Siepacz
+- Wilczy Jeździec - Z mieczem
+- Szaman - Rządza Krwii
+- "Drektar" - Szamani jeżdżący na białym wilku. Generałowie
+- "Thrall" Jasnowidz - wali błyskawicami, widzi wszystko w okolicy, przyzywa wilki, rozstępuje ziemię. Bohater
+
+Siły Czerwonych Orków:
+
+- Peon - słaby ork, mięso armatnie
+- Wojownik - czerwony ork z mieczem
+- Wojownik na koniu
+- Ork Mag Krwii
+- "Samuro" - samurajo podobny Wojownik. Genereł
+- “HellScream" - Wojownik tak szybki, że widać jakby był w kilku miejscach na raz, jego ostrze wywołuje tornado. Cichy i nie zauważalny
+
+Orkowie kultyści:
+- Czarnoksiężnicy
+- Map-nawigatorzy
+- Summoner - przyzywa demony
+- "Guldan" - potężny Czarnoksiężnik
+
+Siły Niebieskich Trolli:
+
+- Łowca Głów - Z dzidzą
+- Znachor - Leczy i robi maści
+- Jeźdźca Nietoperzy
+- Alchemik - Generał
+- "Rokkan" - Zmienia w żaby, przyzywam chmary komarów, leczy zbiorowo
+
+Siły Zielonych Trolli:
+
+- Rzucający Toporami
+- Dmuchawkowiec - zatruwa
+- Berserkerzy - Przyciągające harpuny
+- Noname Szef - Trującą mgła
+
+Siły Czarnych Trolli:
+
+- Rzucający sztuletami
+- Skrytobujca
+- Łowca Cieni - Wielkie pochodnie roznoszące ciemność
+- Noname Szef - sprawia, że jego armia jest niezniszczalna, ale on sam może umrzeć, więc umiera jako pierwszy
+
+Siły Ogrów:
+
+- Maczugownik
+- Mag - dwugłowy niebieski
+- Zbojmistrz - uzbrojony w gruby ciemny pancerz, generał
+- "Rexar" - władca bestii
+
+Siły Gobinów:
+
+- Goblin - atakuje wszystkim co spotka, zwinny i mały dzban
+- Sterowiec - zrzucają swoje siły z powietrza
+- Bombiarz - rzuca bombami i jak trzeba to sam się wysadza
+- Okręt flagowy
+- Szaleniec - Wygląda jak po kwasie, jeździ na czy tylko popadnie
+
+Siły Gnomów:
+
+- Mechanicy
+- żyrokoptery - helikoptery bojowe
+- czołgi parowe
+- wyrwidrzewy
+- uber mechanik - z mechanicznymi dodatkowymi rękoma, tworzący maszyny na potęgę
+
+Siły Taurenów:
+
+- Spirytualista - zmieniał się w postać eteryczną, w której byli nie wrażliwi i umieli latać
+- Totemiarze - wbijali w zwłoki totemy, które wskrzeszały
+- Tauren - chodzi z balą drewna i nią miażdży
+- "Cairn" - Z wielkim toporem i kilkoma totemami na plecach
+
+Siły zbrojne ludzi:
+
+- chłop/milicjant - zbroje z odzysku
+- piechór
+- Rycerz - jeździ na koniu
+- Kapitan - generał 
+- "Garitos"
+
+Siły Srebrnej Ręki:
+
+- Kapelan - Leczy
+- paladyn - Z młotem, jeździ na koniu
+- Emisariusz - generał leczący
+- "Uther" - leczenie, boska tarcza, wskrzeszanie
+
+Siły Zjednoczonych Magów:
+
+- Mag Wody
+- Mag Ognia
+- Mag Ziemi
+- Mag Powietrza
+- Arcymag - władający 2 lub więcej żywiołami, często jeździ na koniu
+- "Jaina" - generał
+- "Antonidas" 
+
+Siły Krasnoludów:
+
+- Strzelec
+- Kanonier
+- Jeździec Gryfów
+- "Muradin"
+
+Siły Wysokich Elfów:
+
+- kuszniczki
+- kapłan - leczy
+- łamacz zaklęć
+- jeźdźcy jastrzębi
+- "Kaelthas"
+
+Siły Nocnych Elfów:
+
+- Łuczniczki
+- Jeźdźcy himerzy
+- Łowczynię
+- "Tyrande"
+
+Oddział elfickich łowczyń:
+
+- Strażniczki - księżycowy sztylet
+- Goniec - leczy
+- "Shantis" - uber strażniczka
+- "Miev" - bohater
+
+Odział Druidów:
+
+- Druid Pazurów
+- Druid Szponów
+- "Malfurion"
+
+Odział Drzewców:
+
+- Drzewiec
+- Driada
+- Duży Drzewiec (Budynki) 
+- "Cenarius" 
+
+Oddział Satyr:
+
+- Splugawione Drzewa
+- Satyr Wojownik
+- Satyr Mag
+- "Illidan" 
+
+Oddział Nag:
+
+- Syreny
+- Myrmidony
+- Zębacz
+- Pierzasty wąż
+- "Cesarski Strażnik" - generał
+- "Lady Vash"
+
+Odziały Murloków:
+
+- Murlok zielony - naostrzona kość
+- Murlok czerwony - muszlana dzida
+- Murlok czarny - sierp z kości
+- Murlok jeźdźca smokożółwi
+- Murlok potężny - bohater
+
+Oddział Zombie:
+
+- Zombie
+- Ghoule
+- Plugastwa
+- Martwi ludzie
+- "mały timmi" 
+- "Safiron" 
+- "arthas"
+
+Odział Nekromantów:
+
+- Szkielety
+- Akolici
+- Nekromanci
+- "Kelthuzad" 
+
+Oddział Nerubian:
+
+- Żuk ścierwojad
+- Bies podziemi
+- Nerubiani
+- Martwe Bestie
+- "Anubarak" 
+
+Oddział Banshee:
+
+- Banshee
+- Martwe Elfy
+- "Sylwanas"
+
+Odział Upiorny:
+
+- Pozostałe martwe istoty
+- Malganis
+- Detherock
+- Tihondrius
+- Varimatras
+- Balnazzar
